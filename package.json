@@ -1,0 +1,11 @@
+{
+    "name": "xcli",
+    "version": "0.0.1",
+    "description": "xcli",
+    "main": "index.js",
+    "bin": {
+        "xcli": "./index.js"
+    },
+    "author": "ClaptonXu",
+    "type": "module"
+}
